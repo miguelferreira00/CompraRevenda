@@ -1,1 +1,1 @@
-# Sistema-de-Gest-o-de-Loja-Compra-e-Revenda
+# Sistema-de-Gestão-de-Loja-Compra-e-Revenda
